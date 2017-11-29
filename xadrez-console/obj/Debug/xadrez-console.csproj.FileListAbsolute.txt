@@ -1,0 +1,6 @@
+D:\Lucas\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe.config
+D:\Lucas\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe
+D:\Lucas\xadrez-console\xadrez-console\bin\Debug\xadrez-console.pdb
+D:\Lucas\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csprojResolveAssemblyReference.cache
+D:\Lucas\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+D:\Lucas\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
